@@ -1,0 +1,8 @@
+npm create vite@latest
+
+enter project name and framework
+
+
+cd project name
+npm install
+npm run dev
